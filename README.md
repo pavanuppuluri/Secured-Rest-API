@@ -40,5 +40,5 @@ This repo covers -
 - Get All Users endpoint can be accessed by ADMIN only
 
 
-Thank You.
+Happy Coding!!!
 
